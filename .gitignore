@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DecHexConversion/.vs/DecHexConversion/v16
+/DecHexConversion/DecHexConversion/bin/Debug/netcoreapp3.1
+/DecHexConversion/DecHexConversion/obj
